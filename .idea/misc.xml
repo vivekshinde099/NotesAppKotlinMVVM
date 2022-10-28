@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NotesApp/app/src/main/res/drawable/btn_filter_shape.xml" value="0.1465" />
+        <entry key="..\:/NotesApp/app/src/main/res/drawable/edit_txt_shape.xml" value="0.187" />
+        <entry key="..\:/NotesApp/app/src/main/res/drawable/green_dot.xml" value="0.187" />
+        <entry key="..\:/NotesApp/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.1645" />
+        <entry key="..\:/NotesApp/app/src/main/res/drawable/ic_baseline_filter_list_24.xml" value="0.1465" />
+        <entry key="..\:/NotesApp/app/src/main/res/drawable/no_btn.xml" value="0.187" />
+        <entry key="..\:/NotesApp/app/src/main/res/drawable/red_dot.xml" value="0.187" />
+        <entry key="..\:/NotesApp/app/src/main/res/drawable/yellow_dot.xml" value="0.187" />
+        <entry key="..\:/NotesApp/app/src/main/res/drawable/yes_btn.xml" value="0.187" />
+        <entry key="..\:/NotesApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/NotesApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/NotesApp/app/src/main/res/layout/dialogue_delete.xml" value="0.25" />
+        <entry key="..\:/NotesApp/app/src/main/res/layout/fragment_create_note.xml" value="0.22" />
+        <entry key="..\:/NotesApp/app/src/main/res/layout/fragment_edit_notes.xml" value="0.20416666666666666" />
+        <entry key="..\:/NotesApp/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/NotesApp/app/src/main/res/layout/item_notes.xml" value="0.22" />
+        <entry key="..\:/NotesApp/app/src/main/res/menu/delete_menu.xml" value="0.1675929884566054" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
